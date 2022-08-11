@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4164346891",
+    "project_id": "fooddeliveryapp-b752b",
+    "storage_bucket": "fooddeliveryapp-b752b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4164346891:android:4e2496c951d67b2b24930e",
+        "android_client_info": {
+          "package_name": "com.itacademy.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4164346891-s8uoe1d5hpq103pmmkdaapqqftt3ab73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU8Y7L7rTHhz_aPoxtg_fZ9qLIjb4GcqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4164346891-s8uoe1d5hpq103pmmkdaapqqftt3ab73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
